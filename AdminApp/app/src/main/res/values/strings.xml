@@ -1,0 +1,47 @@
+<resources>
+  <string name="activity_login" translatable="false">Login</string>
+  <string name="hint_user_name" translatable="false">Username</string>
+  <string name="hint_password" translatable="false">Password</string>
+  <string name="app_name">CanteenAdmin</string>
+  <string name="text_log_in">Login</string>
+  <string name="message_login_failed">Username or Password wrong!</string>
+  <string name="message_authenticate_io_exception">Error during processing authentication request for user</string>
+  <string name="text_dish">Dish of the day</string>
+  <string name="text_waiting_time">Current waiting time</string>
+  <string name="text_minutes">minutes</string>
+  <string name="text_location">Location</string>
+  <string name="google_maps_key">AIzaSyBUZLyqxpufwgGknoyk4Lf27zaFkZGYBQw</string>
+  <string name="hint_canteen_name">Canteen name</string>
+  <string name="message_fechting_cateen_data_failed">Fetching canteen data failed</string>
+  <string name="message_no_location_found">No locations found for</string>
+  <string name="message_location_lookup_failed">Location lookup failed for</string>
+  <string name="text_dish_price">Price</string>
+  <string name="text_phone_number">Phonenumber</string>
+  <string name="text_website">Website</string>
+  <string name="canteen_name">Canteen</string>
+  <string name="text_save">Save</string>
+  <string name="navigation_canteen">My Canteen</string>
+  <string name="navigation_reviews">Reviews</string>
+  <string name="text_ratings_and_reviews">Reviews</string>
+  <string name="text_five">5</string>
+  <string name="text_four">4</string>
+  <string name="text_three">3</string>
+  <string name="text_two">2</string>
+  <string name="text_one">1</string>
+  <string name="message_fetching_review_statistic_failed">Download of review statistics failed for canteen with id</string>
+  <string name="message_map_click_error">Setting location on google map failed</string>
+  <string name="message_update_dish_failed">Update dish failed</string>
+  <string name="message_update_waiting_time_failed">Update waiting time failed</string>
+  <string name="message_update_canteen_data_failed">Update canteen data failed</string>
+  <string name="message_canteen_data_saved">Canteen updated successfully</string>
+  <string name="message_fetching_review_data_failed">Fetching review data failed</string>
+  <string name="message_review_data_loaded">"Review data loaded"</string>
+  <string name="delete">DELETE</string>
+  <string name="message_removed_review">Removed review successfully</string>
+  <string name="delete_icon">Delete Icon</string>
+  <string name="message_delete_review_failed">Deletion of review failed with id</string>
+  <string name="message_could_not_remove_review">Could not delete review</string>
+  <string name="text_logout">Logout</string>
+  <string name="message_fetching_review_data">Fetching review data</string>
+  <string name="message_delete_review">Delete review</string>
+</resources>

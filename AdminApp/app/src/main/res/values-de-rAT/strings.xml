@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_login">Anmelden</string>
+  <string name="hint_user_name" translatable="false">Benutzername</string>
+  <string name="hint_password" translatable="false">Passwort</string>
+  <string name="app_name">KantinenAdmin</string>
+  <string name="text_log_in">Anmelden</string>
+  <string name="message_login_failed">Benutzername oder Passwort falsch!</string>
+  <string name="message_authenticate_io_exception">Fehler beim Verarbeiten des Authentifizerungsprozesses für den Benutzer</string>
+  <string name="text_dish">Gericht des Tages</string>
+  <string name="text_waiting_time">Aktuelle Wartezeit</string>
+  <string name="text_minutes">Minuten</string>
+  <string name="text_location">Standort</string>
+  <string name="hint_canteen_name">Kantinenname</string>
+  <string name="message_fechting_cateen_data_failed">Fehler beim Laden der Kantinendaten</string>
+  <string name="message_no_location_found">Kein Standort gefunden für</string>
+  <string name="message_location_lookup_failed">Standortabfrage fehlgeschlagen für</string>
+  <string name="text_dish_price">Preis</string>
+  <string name="text_phone_number">Telefon</string>
+  <string name="text_website">Webseite</string>
+  <string name="canteen_name">Restaurant</string>
+  <string name="text_save">Speichern</string>
+  <string name="navigation_canteen">Mein Restaurant</string>
+  <string name="navigation_reviews">Rezensionen</string>
+  <string name="text_ratings_and_reviews">Rezensionen</string>
+  <string name="text_five">5</string>
+  <string name="text_four">4</string>
+  <string name="text_three">3</string>
+  <string name="text_two">2</string>
+  <string name="text_one">1</string>
+  <string name="message_fetching_review_statistic_failed">Download der Rezensionsstatistik fehlgeschlagen für das Restaurant mit der Id</string>
+  <string name="message_map_click_error">Standort setzen fehlgeschlagen</string>
+  <string name="message_update_dish_failed">Update des Gerichts fehlgeschlagen</string>
+  <string name="message_update_waiting_time_failed">Update der Wartezeit fehlgeschlagen</string>
+  <string name="message_update_canteen_data_failed">Updat der Restaurantdaten fehlgeschlagen</string>
+  <string name="message_canteen_data_saved">Restaurantdaten erfolgreich gespeichert</string>
+  <string name="message_fetching_review_data_failed">Laden der Rezensionen fehlgeschlagen</string>
+  <string name="message_review_data_loaded">"Rezensionen geladen"</string>
+  <string name="delete">ENTFERNEN</string>
+  <string name="message_removed_review">Rezension erfolgreich gelöscht</string>
+  <string name="delete_icon">Löschen Icon</string>
+  <string name="message_delete_review_failed">Löschen der Rezension fehlgeschlagen mit der Id</string>
+  <string name="message_could_not_remove_review">Rezension konnte nicht gelöscht werden</string>
+  <string name="text_logout">Abmelden</string>
+  <string name="message_fetching_review_data">Lade Rezensionsdaten</string>
+  <string name="message_delete_review">Lösche Rezension</string>
+</resources>
